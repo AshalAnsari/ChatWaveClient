@@ -1,0 +1,35 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/build/
+android/gradle/
+android/gradle-wrapper.jar
+
+# Misc
+*.log
+*.lock
+*.tmp
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter Plugin Configuration
+flutter_launcher_icons-configuration.yaml
